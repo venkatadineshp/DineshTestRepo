@@ -1,0 +1,34 @@
+PODS:
+  - apptentive-ios (1.5.4):
+    - apptentive-ios/arc-files (= 1.5.4)
+  - apptentive-ios/arc-files (1.5.4)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions (= 1.9.2)
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - CrittercismSDK (5.0.7)
+  - EDStarRating (1.1)
+  - HexColors (2.2.1)
+  - MBProgressHUD (0.8)
+  - TSMessages (0.9.10):
+    - HexColors
+
+DEPENDENCIES:
+  - apptentive-ios (= 1.5.4)
+  - CocoaLumberjack (= 1.9.2)
+  - CrittercismSDK (= 5.0.7)
+  - EDStarRating (= 1.1)
+  - MBProgressHUD (= 0.8)
+  - TSMessages (= 0.9.10)
+
+SPEC CHECKSUMS:
+  apptentive-ios: 7e5588fcd2fda3dbf77616df4cae7aa692119837
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
+  CrittercismSDK: f1364ebf70823dea25a5f5edbed31f445b36120a
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  MBProgressHUD: 8688c331cb64702283be37ab8d7d329cdd25f251
+  TSMessages: 587c8041a112ccf6cce2d690e89949e5f7dd3a29
+
+COCOAPODS: 0.37.1
